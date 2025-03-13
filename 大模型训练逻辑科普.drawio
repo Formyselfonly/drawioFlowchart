@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="NKZV0u-XmWMsblAn6XCs">
-    <mxGraphModel dx="1050" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="2738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-490" width="270" height="270" as="geometry" />
+          <mxGeometry x="270" y="-940" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-1" target="DHAD0DQj11gXxvnmwGJB-2">
           <mxGeometry relative="1" as="geometry" />
@@ -85,59 +85,92 @@
         <mxCell id="DHAD0DQj11gXxvnmwGJB-32" value="涉及内部知识" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DHAD0DQj11gXxvnmwGJB-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI Agent具备以下能力：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1.学习（训练）&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.思考（根据规则或者原理推出结果）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3.调用工具（调用工具tools，调用API，调用文档知识库）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4.意图识别（根据用户问题知道用户想干什么）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;5.对话交流（把自己的结果以合适的方式给到用户）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167.5" y="-1090" width="510" height="140" as="geometry" />
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI Agent具备以下能力：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1.学习（训练）&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2.思考（根据规则或者原理推出结果）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3.调用工具（调用工具tools，调用API，调用文档知识库）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;4.意图识别（根据用户问题知道用户想干什么）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;5.对话交流（把自己的结果以合适的方式给到用户）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="-1540" width="510" height="140" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-35" target="DHAD0DQj11gXxvnmwGJB-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-35" value="AI模型初步训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-730" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="-1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-38" target="DHAD0DQj11gXxvnmwGJB-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-38" value="用户输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-580" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="-1030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-41" target="DHAD0DQj11gXxvnmwGJB-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-41" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-440" width="115" height="40" as="geometry" />
+          <mxGeometry x="345" y="-890" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-45" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="395" y="-480" width="60" height="30" as="geometry" />
+          <mxGeometry x="375" y="-930" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-46" target="DHAD0DQj11gXxvnmwGJB-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-46" value="思考" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-370" width="115" height="40" as="geometry" />
+          <mxGeometry x="345" y="-820" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-47" value="调用知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-300" width="115" height="40" as="geometry" />
+          <mxGeometry x="345" y="-750" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-50" target="DHAD0DQj11gXxvnmwGJB-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="-160" />
-              <mxPoint x="230" y="-910" />
-              <mxPoint x="425" y="-910" />
+              <mxPoint x="210" y="-610" />
+              <mxPoint x="210" y="-1360" />
+              <mxPoint x="405" y="-1360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-50" value="用户输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-190" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="-640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-54" target="DHAD0DQj11gXxvnmwGJB-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DHAD0DQj11gXxvnmwGJB-54" value="AI模型部署" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-870" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="-1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DHAD0DQj11gXxvnmwGJB-58" value="反馈：&lt;br&gt;根据问题类型优化&lt;div&gt;&lt;br&gt;意图识别，思考，知识库，哪块出了问题？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-700" width="140" height="170" as="geometry" />
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-58" value="反馈：&lt;br&gt;根据问题类型优化&lt;div&gt;&lt;br&gt;意图识别，思考，知识库，哪块出了问题？&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=default;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1160" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-61" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-510" width="435" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-62" value="&lt;b&gt;知识库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=none;startFill=0;" edge="1" parent="1" source="DHAD0DQj11gXxvnmwGJB-63" target="DHAD0DQj11gXxvnmwGJB-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-63" value="知识文档1" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-64" value="知识文档2" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-65" value="知识文档n" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-66" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-210" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-69" value="Chunk1&lt;div&gt;出差开私家车怎么报销?&lt;br&gt;1元/公里&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-70" value="Chunk2&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-71" value="Chunk3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DHAD0DQj11gXxvnmwGJB-72" value="Chunk n&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-40" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
