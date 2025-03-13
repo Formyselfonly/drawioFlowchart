@@ -1,28 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="bMm1mwXhRaAtICo5EMtH">
-    <mxGraphModel dx="619" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fncrAy63PTHVWpMquAdD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="20" width="500" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-2" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-2" value="研究问题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="65" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-3" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-3" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="155" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-4" value="实现步骤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-4" value="实现步骤" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="225" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-6" value="实现效果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-6" value="实现效果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="295" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-9">
+        <mxCell id="fncrAy63PTHVWpMquAdD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-8">
+        <mxCell id="fncrAy63PTHVWpMquAdD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="130" />
@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-10">
+        <mxCell id="fncrAy63PTHVWpMquAdD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="fncrAy63PTHVWpMquAdD-7" target="fncrAy63PTHVWpMquAdD-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="130" />
@@ -38,25 +38,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-7" value="1.传统AI NPCs的交互长度受到模型性能限制&lt;div&gt;2.传统AI NPCs的类人化交互表现有限&lt;/div&gt;&lt;div&gt;3.缺乏验证AI NPCs性能的游戏环境实例&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-7" value="1.传统AI NPCs的交互长度受到模型性能限制&lt;div&gt;2.传统AI NPCs的类人化交互表现有限&lt;/div&gt;&lt;div&gt;3.缺乏验证AI NPCs性能的游戏环境实例&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="340" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-8" value="研究具有长期交互性能的AI NPCS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-8" value="研究具有长期交互性能的AI NPCs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-9" value="研究具有类人化表现性能的AI NPCS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-9" value="研究具有类人化表现性能的AI NPCs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="355" y="140" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-10" value="创建验证AI NPCs的游戏环境实例" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-10" value="创建验证AI NPCs的游戏环境实例" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-11" value="1.研究基于人类记忆后发的AI NPCs记忆机制MemoryRepository2.创建AI NPCS虚拟小镇游戏环境实例&lt;div&gt;3.验证MemoryRepository的性能效果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-11" value="1.研究基于人类记忆启发的AI NPCs记忆机制MemoryRepository&lt;div&gt;2.创建AI NPCS虚拟小镇游戏环境实例&lt;div&gt;3.验证MemoryRepository的性能效果&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="240" y="210" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-12" value="对比传统AINPCS,在交互长度上有显著提升" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-12" value="对比传统AINPCS,在交互长度上有显著提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fncrAy63PTHVWpMquAdD-13" value="对比其他记忆机制如MemGPT，在类人化标表现上有显著提升" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fncrAy63PTHVWpMquAdD-13" value="对比其他记忆机制如MemGPT，在类人化标表现上有显著提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="290" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
