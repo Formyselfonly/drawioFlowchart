@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="e1R35peYhVq-EnJc8rZE">
-    <mxGraphModel>
+    <mxGraphModel dx="1500" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J0B0QLEhPJ_LPpGQ3EMO-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.gptsecurity.info/img/in-post/rag_flow.png;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="1080" height="493" as="geometry" />
+        </mxCell>
+        <mxCell id="J0B0QLEhPJ_LPpGQ3EMO-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://picx.zhimg.com/v2-ec796da4012a702d088bf8bed4b1ae0d_1440w.jpg;" vertex="1" parent="1">
+          <mxGeometry x="280" y="690" width="1200" height="647" as="geometry" />
+        </mxCell>
+        <mxCell id="J0B0QLEhPJ_LPpGQ3EMO-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Naive RAG&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J0B0QLEhPJ_LPpGQ3EMO-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Advanced RAG&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="993.5" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
