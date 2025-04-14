@@ -160,6 +160,9 @@
         <mxCell id="uLpZQKrst6Y3thfTmhwQ-2" value="输入：&lt;br&gt;数据源&lt;div&gt;eg官网&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="30" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uLpZQKrst6Y3thfTmhwQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uLpZQKrst6Y3thfTmhwQ-3" target="uLpZQKrst6Y3thfTmhwQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uLpZQKrst6Y3thfTmhwQ-3" value="Dify API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="230" width="60" height="30" as="geometry" />
         </mxCell>
