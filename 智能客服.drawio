@@ -1,9 +1,41 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="M1iB0JgTUpQXoafaGhzw">
-    <mxGraphModel>
+    <mxGraphModel dx="1283" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ocfpeheD2iWH20HzGndA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-1" target="ocfpeheD2iWH20HzGndA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-1" value="用户输入&lt;br&gt;eg（" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-2" target="ocfpeheD2iWH20HzGndA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-2" target="ocfpeheD2iWH20HzGndA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="210" />
+              <mxPoint x="550" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-2" value="问题判断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-4" value="咨询类&lt;br&gt;（问题：常见问题&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;目的：回复速度）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="250" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-6" value="技术类&lt;div&gt;(问题：技术人员才能回答的问题&lt;/div&gt;&lt;div&gt;目的：减少客服那边筛选邮件的时间&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-2" target="ocfpeheD2iWH20HzGndA-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-8" value="情绪类&lt;br&gt;（问题：情绪相关，你家产品xxx有问题&lt;br&gt;目的：进行翻译+情绪识别，减少万齐那边处理时间）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
