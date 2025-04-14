@@ -36,6 +36,39 @@
         <mxCell id="ocfpeheD2iWH20HzGndA-8" value="情绪类&lt;br&gt;（问题：情绪相关，你家产品xxx有问题&lt;br&gt;目的：进行翻译+情绪识别，减少万齐那边处理时间）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-11" target="ocfpeheD2iWH20HzGndA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-11" target="ocfpeheD2iWH20HzGndA-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-11" value="功能实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-12" target="ocfpeheD2iWH20HzGndA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-12" value="情绪判断，翻译，邮件格式，关键词提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-13" target="ocfpeheD2iWH20HzGndA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-13" value="工具类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-16" value="Prompt工程&lt;br&gt;（在本机AI软件实现）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ocfpeheD2iWH20HzGndA-20" target="ocfpeheD2iWH20HzGndA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-20" value="智能回复类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ocfpeheD2iWH20HzGndA-23" value="Dify+知识库+QA表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
