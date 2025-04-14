@@ -137,7 +137,7 @@
         <mxCell id="ocfpeheD2iWH20HzGndA-58" value="接入类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ocfpeheD2iWH20HzGndA-60" value="API对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ocfpeheD2iWH20HzGndA-60" value="官网原始文本API对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocfpeheD2iWH20HzGndA-61" value="邮件发送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
